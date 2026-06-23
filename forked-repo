@@ -1,0 +1,15 @@
+Command:
+
+curl -X POST \
+-H "Authorization: token YOUR_TOKEN" \
+https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
+
+
+Terminal Output:
+
+{
+  "full_name": "A-S-W-I-N-99/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "fork": true,
+  "html_url": "https://github.com/A-S-W-I-N-99/mcino-Introduction-to-Git-and-GitHub"
+}
